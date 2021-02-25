@@ -9,3 +9,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## User Experience
 - sign in / sign out, register 
 - takes the image given by URL and highlights the face
+
+ ## Demo:
+  User Interface:
+  
+  - register
+  - ![](presentation_images/register.png)
+  - home
+  - ![](presentation_images/home.png)
+  - face detected
+  - ![](presentation_images/face_detected.png)
