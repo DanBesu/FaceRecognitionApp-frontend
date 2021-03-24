@@ -1,4 +1,4 @@
-# Face Recognition - React Web Application (just the frontend)
+# Face Recognition - React Web Application (the frontend)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
